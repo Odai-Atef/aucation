@@ -1,0 +1,28 @@
+*{
+    direction: rtl;
+}
+header.style-1{
+    padding: 0 0 0 60px;
+}
+header.style-1 .nav-right .hotline{
+    margin-right: 0px;
+    margin-left: 40px;
+}
+.topbar-left h6{
+    margin-left: 15px;
+    margin-right: 0px;
+}
+footer .footer-bottom .footer-logo-list li:last-child{
+    margin-right: 20px;
+}
+.bid-list .bidder-area .bidder-img{
+    margin-left: 25px;
+    margin-right: 0px;
+}
+.dashboard-section .nav-pills .nav-link{
+    text-align: right !important;
+}
+.breadcrumb{
+    flex-direction: column-reverse;
+
+}
